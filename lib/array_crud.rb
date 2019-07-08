@@ -38,7 +38,7 @@ end
 
 def retrieve_last_element_from_array(array)
  color_array=["red", "blue", "green"]
-  color_array[2]
+ p color_array[2]
 end
 
 def update_element_from_index(array, index_number, element)
