@@ -27,8 +27,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  array=[1,2,3,4]
-  array.
+  color_array=["blue", "green", "red"]
+  color_array[1]
 end
 
 def retrieve_first_element_from_array(array)
