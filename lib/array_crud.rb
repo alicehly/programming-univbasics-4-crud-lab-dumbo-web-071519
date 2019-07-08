@@ -19,18 +19,18 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  array=["wow",3]
+  array=[1,2,3,4]
   array.pop "arrays!"
   p array
 end
 
 def remove_element_from_start_of_array(array)
- array=[1,2,3,4]
+ array=[1,"wow"]
  new_array=array.shift
  
  p array
  
- p new_array
+ p new_Array
 end
 
 def retrieve_element_from_index(array, index_number)
