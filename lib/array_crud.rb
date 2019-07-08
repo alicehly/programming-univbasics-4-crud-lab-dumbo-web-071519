@@ -25,25 +25,22 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  array=[1,2,3,4]
-  array.shift('1')
+
 end
 
 def retrieve_element_from_index(array, index_number)
-  color_array=["blue", "green", "red"]
-  color_array[1]
+
 end
 
 def retrieve_first_element_from_array(array)
-  array=[1,2,3,4]
-  array[0]
+
 end
 
 def retrieve_last_element_from_array(array)
-  array=[1,2,3,4]
-  array[3]
+ color_array=["red", "blue", "green"]
+  
 end
 
 def update_element_from_index(array, index_number, element)
-array=[1,2,3,4]
+
 end
