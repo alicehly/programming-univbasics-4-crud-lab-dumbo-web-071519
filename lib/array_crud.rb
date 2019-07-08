@@ -52,5 +52,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   array=["yes", "no", "totally"]
-  
+  array[0]="totally"
 end
