@@ -9,6 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   pet_array = ["cat","dog","fish","turtle"]
   pet_array << "toad"
+  p pet_array
 end
 
 def add_element_to_start_of_array(array, element)
