@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   animal_array=["cat","dog","fish","turtle"]
   animal_array.push("bear") 
-  p array
+  p animal_array
 end
 
 def add_element_to_start_of_array(array, element)
