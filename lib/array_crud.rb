@@ -25,7 +25,8 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
- array=[1,"wow"]
+ array=["wow",1]
+ 
  new_array=array.shift
 
  p new_array
